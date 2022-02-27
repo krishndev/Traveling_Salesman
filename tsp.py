@@ -178,6 +178,5 @@ def runTwentyGenetic(nCities, cities_dis, cities, city_coords, numPopulation):
     return average_fitness
 
 
-
 if __name__ == "__main__":
     main()
