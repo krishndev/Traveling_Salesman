@@ -1,7 +1,5 @@
 import time
 import numpy as np
-
-# Main genetic algorithm method is at the bottom, the others are help methods   
     
 # Calculating fitness values
 def calculateFitness(nCities, cities_dis, cities, population):
